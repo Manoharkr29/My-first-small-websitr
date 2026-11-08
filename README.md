@@ -1,2 +1,2 @@
-# Wonderslist travel
+Wanderlust - Travel and Tourism Website
 
